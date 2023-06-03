@@ -1,0 +1,36 @@
+.login-page-bg-container {
+  background-color: grey;
+}
+.logo-image {
+  height: 100vh;
+}
+.contents-card {
+  background-color: white;
+  text-align: center;
+}
+.heading {
+  font-family: "DynaPuff", cursive;
+}
+.sub-heading {
+  color: grey;
+  font-size: 20px;
+  font-family: "Bree serif";
+}
+.username {
+  font-weight: 500;
+  margin-right: 80px;
+}
+.sign-in-button {
+  background-color: #2f2f2f;
+  color: white;
+  width: 80px;
+  font-family: "Bree serif";
+}
+.signing-text {
+  color: #000000;
+}
+.signup {
+  color: #0000ff;
+  text-decoration: underline;
+  font-size: 20px;
+}

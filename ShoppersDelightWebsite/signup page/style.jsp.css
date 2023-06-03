@@ -1,0 +1,54 @@
+.login-page-bg-container {
+  background-color: grey;
+}
+.logo-image {
+  height: 130vh;
+  width:50vw;
+}
+.contents-card {
+  background-color: white;
+  height:130vh;
+  text-align:center;
+}
+.contents-card-for-small-devices
+{
+  background-color: white;
+  height:150vh;
+  text-align:center;
+  
+}
+.register-heading
+{
+   text-align:left;
+   font-size:30px;
+}
+.register-desc
+{
+   text-align:left;
+}
+.heading {
+  font-family: "DynaPuff", cursive;
+}
+.sub-heading {
+  color: grey;
+  font-size: 20px;
+  font-family: "Bree serif";
+}
+.username {
+  font-weight: 500;
+  margin-right: 80px;
+}
+.sign-in-button {
+  background-color: #2f2f2f;
+  color: white;
+  width: 80px;
+  font-family: "Bree serif";
+}
+.signing-text {
+  color: #000000;
+}
+.signup {
+  color: #0000ff;
+  text-decoration: underline;
+  font-size: 20px;
+}

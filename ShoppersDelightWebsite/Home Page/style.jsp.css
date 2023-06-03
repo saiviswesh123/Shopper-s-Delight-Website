@@ -1,0 +1,158 @@
+.navbar-background
+{
+    background-color:#ffffff;
+}
+.logo-image
+{
+  height:100px;
+}
+#elementOne
+{
+  color:black;
+  font-family:lato;
+  font-size:20px;
+}
+#elementTwo
+{
+  color:black;
+  font-family:lato;
+  font-size:20px;
+}
+#elementThree
+{
+  color:black;
+  font-family:lato;
+  font-size:20px;
+}
+#elementFour
+{
+  color:black;
+  font-family:lato;
+  font-size:20px;
+}
+#elementFive
+{
+  color:black;
+  font-family:lato;
+  font-size:20px;
+  margin-right:10px;
+}
+.cart-logo
+{
+  font-size:30px;
+}
+.login-button
+{
+   width:100px;
+   height:40px;
+}
+.ecommerce-banner
+{
+   width:100vw;
+   
+}
+
+.todays-deals-heading
+{
+   font-family:lato;
+   padding:20px;
+   font-size:40px;
+   font-weight:500;
+}
+.todays-deals-contents
+{
+   text-align:center;
+}
+.discount
+{
+  background-color:#ce4747;
+  color:white;  
+}
+.deal-of-the-day
+{
+  color:#ce4747;
+  font-weight:500;
+}
+
+.product-1
+{
+  background-color:white;
+  padding:10px;
+  border-radius:10px;
+  border-style:solid;
+  border-color:grey;
+}
+.laptop-image
+{
+   height:200px;
+}
+.about-us-section
+{
+   background-color:white;
+   border-radius:10px;
+   border-style:solid;
+   border-color:crimson;   
+}
+.about-us-heading
+{
+   font-family:"times new roman";
+}
+.about-us-subheading
+{
+   font-family:"times new roman";
+   font-style:italic;
+   font-size:30px;
+}
+.about-us-description
+{
+   font-family:"times new roman";
+   font-size:20px;
+}
+.logo-image-about-us-section
+{
+    height:200px;
+}
+
+.contact-us-section
+{
+   background-color:whitesmoke;
+   padding:10px;
+}
+.contact-us-contents
+{
+   margin-left:200px;
+}
+.contact-us-contents-for-large-and-extralarge-devices
+{
+   margin-left:400px;
+}
+.contact-us-heading
+{
+   font-family:"times new roman";
+   text-align:center;
+   color:rgb(0, 0, 0);
+}
+.message
+{
+   margin-right:20px;
+}
+
+.submit-button
+{
+   text-align:center;
+}
+
+.main-bg-container
+{
+   background-color:whitesmoke;
+}
+#bannerImage
+{
+   height:10px;
+}
+
+
+
+
+
+
